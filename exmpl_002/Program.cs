@@ -1,5 +1,5 @@
 ﻿Console.Clear();
 int numberA = 3;
-int numberB = 5;
-Console.WriteLine(numberA + numberB);
+int numberB = 55;
+int result = numberA + numberB;
 Console.WriteLine(result);
