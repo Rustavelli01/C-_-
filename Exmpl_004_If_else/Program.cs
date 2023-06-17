@@ -1,6 +1,6 @@
 ﻿//Console.clear();
 Console.Write("Ты кто такой? ");
-string username = Console.ReadLine();
+string username = Console.ReadLine() ?? "";
 
 if(username.ToLower() == "рустам")
 {
